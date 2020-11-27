@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606463212 source:c:\users\saipk\desktop\jewel\jewel\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"jewel.h"
+
+1606463376 c:\users\saipk\desktop\jewel\jewel\inc\jewel.h
+
+1606461759 source:c:\users\saipk\desktop\jewel\jewel\src\jewel.c
+
